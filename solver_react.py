@@ -10,12 +10,6 @@ npm run build
 solver = FastAPI()
 
 
-def distanceMatrix (location)
-
-
-def ortoolsSolver (distanceMatrix)
-
-
 
 
 def distance_matrix(locations):
